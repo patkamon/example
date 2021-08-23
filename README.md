@@ -1,7 +1,7 @@
-#Example of Working with Remotes#
+#Example of Working with Remotes
 
 by Patkamon Awaiwanont
----
+
 Use Case: You have a repository on your computer containing some code. How do you copy this repository to Github?
 
    0. Create an empty repository on Github for your code.
