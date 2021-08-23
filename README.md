@@ -20,4 +20,7 @@ Use Case: You have a repository on your computer containing some code. How do yo
    
         ```git push```
 
+# Git Branches #
 
+Git branch provides you to add/edit your code into a specify branch by not interrupt other
+branch, This made your work much more flexible to do with team/partner. 
