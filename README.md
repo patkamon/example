@@ -20,6 +20,12 @@ Use Case: You have a repository on your computer containing some code. How do yo
    
         ```git push```
 
+# Remote Tracking Branches #  
+
+A remote tracking branch is a branch in **your local repository** that **tracks** a branch on a remote repository.    
+
+The notation is: ```remote_name/branch_name``` such as ```origin/master```.   
+
 # Git Branches #
 
 Git branch provides you to add/edit your code into a specify branch by not interrupt other
